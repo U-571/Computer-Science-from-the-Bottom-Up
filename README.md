@@ -1,12 +1,10 @@
 # Computer-Science-from-the-Bottom-Up
 Traduccion del ingles al español realizada por el equipo U-571
+Creditos:
 
-Creditos
-          Traducción
-            Vincent
-            Carlos
-            
-            Edición
-            Vikyn5
-            
-            
+        Traducción:
+          Vincent
+          Carlos
+        
+        Edición:
+          Vikyn5
